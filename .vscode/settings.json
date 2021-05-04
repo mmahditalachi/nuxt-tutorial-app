@@ -1,0 +1,6 @@
+{
+    "prettier.vueIndentScriptAndStyle": true,
+    "vetur.format.scriptInitialIndent": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "modifications"
+}
